@@ -58,7 +58,7 @@
              "youtubei.js": "^7.0.0",
              "ytdl-secktor": "^0.0.1-development",
             "link-preview-js": "^3.0.0",
-            "puppeteer": "^22.6.1" 
+            "puppeteer": "^5.4.1"
    },
    "directories": { "lib": "lib", "plugins":"plugins" },
    "devDependencies": {  "pino": "^7.0.5" },
